@@ -1,0 +1,6 @@
+{"titulo": "INGENIEIA EN SISTEMAS", "entidad": "UDEA", "fecha": "2024-12-06"}
+{"titulo": "TECNICO EN SISTEMAS", "entidad": "COMPUESTUDIO", "fecha": "2024-12-13"}
+{"titulo": "TECNICO EN DISE\u00d1O GRAFICO", "entidad": "SENA", "fecha": "2024-12-20"}
+{"titulo": "TECNICO EN TELECOMUNICACIONES", "entidad": "CESDE", "fecha": "2024-12-26"}
+{"titulo": "ESPECIALISTA EN REDES DE NUEVA GENERACI\u00d3N", "entidad": "UNAD", "fecha": "2024-12-13"}
+{"titulo": "MAGISTER EN CIENCIAS DE LA COMPUTACI\u00d3N", "entidad": "UNIR", "fecha": "2024-12-18"}
